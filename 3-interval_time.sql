@@ -1,0 +1,1 @@
+create type interval_time as (time_value timestamp, time_type integer);
